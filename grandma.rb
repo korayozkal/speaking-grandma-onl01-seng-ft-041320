@@ -4,10 +4,10 @@ if phrase.upcase == 'I LOVE YOU GRANDMA!'
 end
 end
  
- 
 def speak_to_grandma(phrase)
 else phrase == phrase.lowcase  
 'HUH?! SPEAK UP, SONNY!
+end
 
 # Write a speak_to_grandma method.
 
