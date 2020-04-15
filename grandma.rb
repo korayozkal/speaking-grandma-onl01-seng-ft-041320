@@ -3,7 +3,7 @@ if phrase.upcase == 'I LOVE YOU GRANDMA!'
 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma(phrase)
-else phrase.lowcase == phrase.lo  
+else phrase.downcase == phrase 
 'HUH?! SPEAK UP, SONNY!
 
 end 
